@@ -31,7 +31,7 @@ in the next m lines, a machine edge ​​is given with three input values at ea
 
 - The state of the ending of the edge
 
-in the next q lines, the $$w_i$$ string entered in the i-th line which is the i-th word given to the machine.
+in the next q lines, the w_i string entered in the i-th line which is the i-th word given to the machine.
 
 ### output
 
